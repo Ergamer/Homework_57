@@ -1,0 +1,12 @@
+.OrderTable{
+    border: 1px solid black;
+    margin: 0 auto;
+    min-height: 300px;
+    width: 250px;
+    position: relative;
+}
+.Spent{
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+}
